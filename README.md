@@ -1,4 +1,4 @@
-![Argentina National Fuel Market Analysis_page-0002](https://github.com/user-saddam123/Argentina-National-fuel-Market-Analysis-FP20-Analytics-Mar-2024-Challenge/assets/123800896/44857f39-8581-42af-86b2-4404497409a6)# Argentina-National-fuel-Market-Analysis-FP20-Analytics-Mar-2024-Challenge
+# Argentina-National-fuel-Market-Analysis-FP20-Analytics-Mar-2024-Challenge
 
 ## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
