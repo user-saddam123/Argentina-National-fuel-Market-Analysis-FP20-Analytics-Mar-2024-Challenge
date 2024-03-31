@@ -2,6 +2,10 @@
 
 ## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
+## Live dashboard at novypro [Link](https://www.novypro.com/project/argentina-national-fuel-market-analysis---fp20-analytics-challenge-by--saddam-ansari)
+
+## Live dashboard at novypro webpage style [Link](https://www.novypro.com/project/argentina-nation-fuel-market-analysis-web-page-style-fp20-analytics-challenge-by--saddam-ansari)
+#
 
 ## Challenge Objective:
 This project is part of the **FP20Analytics challenge**, focusing on analyzing **fuel price trends in Argentina** over recent years. Through data collection from various sources such as government databases and fuel companies, the project aims to uncover patterns of price adjustments, seasonal trends, and regional differences. 
