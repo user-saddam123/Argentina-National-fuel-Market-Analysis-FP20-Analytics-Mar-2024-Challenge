@@ -8,7 +8,7 @@
 #
 
 ## Challenge Objective:
-This project is part of the **FP20Analytics challenge**, focusing on analyzing **fuel price trends in Argentina** over recent years. Through data collection from various sources such as government databases and fuel companies, the project aims to uncover patterns of price adjustments, seasonal trends, and regional differences. 
+This project is part of the **FP20Analytics challenge**, focusing on analyzing **fuel price trends in Argentina** over recent years. Through data collection from various sources such as government databases and fuel companies, the project aims to uncover patterns of price adjustments, seasonal trends, and regional differences.
 
 The analysis provides insights into factors influencing fuel price changes without complex statistical methodologies, focusing on gasoline, diesel, and alternative fuels to offer a comprehensive overview of price variations across Argentina.
 
